@@ -1,0 +1,31 @@
+
+body{
+font: 20px Arial , sans-serif;
+background: rgb(206, 15, 15);
+margin-left: 100px;
+margin-right: 200px;
+
+}
+
+ul{
+    display: flex;
+}
+li{
+    display: flex;
+}
+header{
+    margin-top: 80px;
+}
+h1{
+    font-family: fantasy;
+}
+h2{
+    font-family: fantasy;
+}
+p{
+    font-size: 30px;
+}
+
+img{
+    margin-bottom: 40px;
+}
